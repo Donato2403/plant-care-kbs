@@ -1,0 +1,11 @@
+# Ambiente virtuale Python
+/venv
+
+# File generati da Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File di configurazione editor
+.vscode/
