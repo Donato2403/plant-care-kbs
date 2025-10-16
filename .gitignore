@@ -7,5 +7,8 @@ __pycache__/
 *.pyo
 *.pyd
 
+# Modelli di Machine Learning addestrati
+*.pkl
+
 # File di configurazione editor
 .vscode/
